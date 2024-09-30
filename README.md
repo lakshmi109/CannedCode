@@ -4,11 +4,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://iili.io/dtPkL8B.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://iili.io/dtPkL8B.jpg" alt="project-screenshot" width="640" height="480/">
 
-<img src="https://iili.io/dtPk4Gj.md.jpg" alt="project-screenshot" width="400" height="900/">
+<img src="https://iili.io/dtPk4Gj.md.jpg" alt="project-screenshot" width="640" height="480/">
 
-<img src="https://iili.io/dtPkSje.md.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://iili.io/dtPkSje.md.jpg" alt="project-screenshot" width="640" height="480">
 
   
   
