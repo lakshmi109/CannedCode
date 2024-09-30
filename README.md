@@ -3,12 +3,12 @@
 <p id="description">CannedCode is an online coding sandbox that enables users to create and run their projects directly in a web browser. With cannedcode you can develop Node.js and Python applications without the need for local setup.</p>
 
 <h2>Project Screenshots:</h2>
+<a href="https://freeimage.host/i/dtPkL8B"><img src="https://iili.io/dtPkL8B.md.jpg" alt="dtPkL8B.md.jpg" border="0"></a>
 
-<img src="https://iili.io/dtPkL8B.jpg" alt="project-screenshot" width="640" height="480/">
+<a href="https://freeimage.host/i/dtPkSje"><img src="https://iili.io/dtPkSje.md.jpg" alt="dtPkSje.md.jpg" border="0"></a>
 
-<img src="https://iili.io/dtPk4Gj.md.jpg" alt="project-screenshot" width="640" height="480/">
+<a href="https://freeimage.host/i/dtPk4Gj"><img src="https://iili.io/dtPk4Gj.md.jpg" alt="dtPk4Gj.md.jpg" border="0"></a>
 
-<img src="https://iili.io/dtPkSje.md.jpg" alt="project-screenshot" width="640" height="480">
 
   
   
@@ -55,5 +55,3 @@ Technologies used in the project:
 *   Websockets
 *   Google Cloud
 *   Pseudo Terminal (pty)
-
-<h2>💖Like my work?</h2>
