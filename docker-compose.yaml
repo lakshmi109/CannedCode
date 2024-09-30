@@ -1,0 +1,24 @@
+services:
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "8080:80" # Maps nginx port 80 to host port 8080
+    depends_on:
+      - backend
+
+  backend:
+    build:
+      context: ./backend
+    ports:
+      - "3000:3000" # Maps backend service port 3000
+    environment:
+      - PORT=3000
+      - NODE_ENV=production
+      - GOOGLE_CLOUD_PROJECT=sde-mini-project-436908
+      - GOOGLE_APPLICATION_CREDENTIALS=/app/credentials.json
+      - GCS_BUCKET=cannedcode
+      - GCS_PROJECT_ID=sde-mini-project-436908
+      - GCS_KEY_FILE=/app/credentials.json
+    volumes:
+      - C:\Users\Acer\Documents\important stuff\sde\mini_project\cannedcode-2\canned-code\sde-mini-project-436908-6225ea4d2f81.json:/app/credentials.json
